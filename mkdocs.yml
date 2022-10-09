@@ -1,4 +1,4 @@
-site_name: GithubActions搭建mkdocs-material
+site_name: MinecraftforAndroid版本库
 theme:
   name: material
   language: zh
